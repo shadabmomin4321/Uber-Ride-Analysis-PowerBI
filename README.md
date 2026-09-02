@@ -178,7 +178,6 @@ The repository contains the following project files:
 ```text
 Uber_Ride_Analysis_Dashboared.pbix
 Uber_Ride_Analysis_Dashboared(2).pdf
-Uber Problems and Bussiness Requirements.docx
 uber.xlsx
 ```
 
@@ -197,11 +196,8 @@ Uber-Ride-Analysis-PowerBI/
 │   ├── Home.png
 │   └── Overview.png
 │
-├── Dataset/
-│   └── uber.xlsx
-│
-└── Documentation/
-    └── Uber Problems and Bussiness Requirements.docx
+└── Dataset/
+    └── uber.xlsx
 ```
 
 ## Learning Outcomes
@@ -230,3 +226,4 @@ Aspiring Data Analyst | Power BI | Excel | SQL | Python
 ## Disclaimer
 
 This project is created for learning, portfolio, and data-analysis practice purposes. The dataset is used as provided for analytical and visualization practice.
+
